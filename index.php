@@ -78,7 +78,7 @@ $ZAR = round($currencyLayer->convertCurrency($HundrdNairaToDll,'ZAR'), 6);
   <div class="content">
     
     <div class="container">
-      <h2 class="mb-5" style="text-align: center;">Currency Exchange Rate by Computer Science, HND 1B. <a href="wd">check cities temperature</a></h2>
+      <h2 class="mb-5" style="text-align: center;">Currency Exchange Rate by Computer Science, HND 1A. <a href="wd">check cities temperature</a></h2>
       
       <div class="table-responsive custom-table-responsive">
 
