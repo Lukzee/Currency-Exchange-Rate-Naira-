@@ -28,7 +28,7 @@ class currencyLayer{
     
     //Your currencylayer API key
     //Available at https://currencylayer.com/product
-    protected $apiKey = '18e632be427b3b76bc2fd0df80d8d3a7';
+    protected $apiKey = 'YOUR_API_KEY';
     
     //API endpoints
     private $endPoint = array(
